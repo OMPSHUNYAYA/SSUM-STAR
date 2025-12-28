@@ -1,6 +1,6 @@
 # ⭐ Structural Time And Replay (SSUM-STAR)
 
-**Deterministic • Offline • Lossless • Indexed Seek • Exact Replay**
+**Deterministic • Offline • Lossless • Data Compression • Indexed Seek • Exact Replay**
 
 ![GitHub Stars](https://img.shields.io/github/stars/OMPSHUNYAYA/SSUM-STAR?style=flat&logo=github)
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-brightgreen?style=flat&logo=creative-commons)
